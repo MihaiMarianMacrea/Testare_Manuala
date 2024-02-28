@@ -8,3 +8,5 @@
 
 
 [Test cases](https://github.com/MihaiMarianMacrea/Testare_Manuala/blob/main/SQL%20Introduction.pdf)
+
+![TUT TUTUTU](https://github.com/MihaiMarianMacrea/Testare_Manuala/blob/main/Screenshot%202022-10-14%20142914.png)
