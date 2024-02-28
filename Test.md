@@ -11,6 +11,9 @@
 
 ![TUT TUTUTU](https://github.com/MihaiMarianMacrea/Testare_Manuala/blob/main/Screenshot%202022-10-14%20142914.png)
 
+
+
+Table of content: 
 1. First item
 2. Second item
 3. Third item
@@ -23,3 +26,17 @@
             1.1 Project Objective 
             
             1.2 Functionalities in scope
+
+
+------------
+<br>
+
+   ## Risks:
+- stability risks (crashes, disconnects, etc)
+- IE browser might have performance issues
+- the web page pagination could be impacted when opened on mobile devices
+- stress conditions might impact the web application
+- new browser might not be supported
+
+
+
